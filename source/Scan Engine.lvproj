@@ -70,6 +70,7 @@
 		<Item Name="Scan Engine runtime.lvclass" Type="LVClass" URL="../execution/Scan Engine runtime.lvclass"/>
 		<Item Name="Scan Engine tests.lvlib" Type="Library" URL="../testing/Scan Engine tests.lvlib"/>
 		<Item Name="Test Variables.lvlib" Type="Library" URL="../testing/Test Variables.lvlib"/>
+		<Item Name="VIForDiff.vi" Type="VI" URL="../VIForDiff.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="AMC.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/AMC/AMC.lvlib"/>
