@@ -1,5 +1,8 @@
 <instructions>
-    <customExecutes>
-  <customExecute step="install" schedule="post" root="Desktop" exeName="copy.bat"/>
-    </customExecutes>
+    <targetAttributes bitness="64" readOnly="keepSource"/>
+    <shortcuts>
+    </shortcuts>
+    <customExecutes>
+        <customExecute step="install" schedule="post" root="Desktop" exeName="copy.bat"/>
+    </customExecutes>
 </instructions>
