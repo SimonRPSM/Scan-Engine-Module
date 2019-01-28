@@ -5,6 +5,12 @@ archive_location = 'C:\\Users\\labview\\Desktop\\CI\\archive'
 [projects.cd]
 path = 'Source\Scan Engine.lvproj'
 
+[[test.steps]]
+name = 'UTF Example'
+type = 'lvUTF'
+UTF_path='Source\Scan Engine.lvproj'
+
+
 [package]
 type = 'nipkg'
 payload_dir = 'source'
